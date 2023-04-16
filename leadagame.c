@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(void) {
-	// your code goes here
 	int n;
 	scanf("%d",&n);
     int player[n],player2[n],top_lead=0,lead1,lead2,winner=0,score;
