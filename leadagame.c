@@ -51,6 +51,5 @@ int main(void) {
     {
         printf("2 %d",top_lead);
     }
-    
 	return 0;
 }
