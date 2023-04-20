@@ -2,6 +2,7 @@
     Date--17-09-2022
     Purpose--Print self divider number in given range
 */
+
 #include <stdio.h>
 int divider(int);
 void print_divider(int, int);
