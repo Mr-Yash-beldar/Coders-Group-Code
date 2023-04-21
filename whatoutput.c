@@ -1,4 +1,4 @@
-
+//task what will be output of code
 #include <stdio.h>
 void main()
 {
